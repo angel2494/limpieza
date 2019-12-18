@@ -1,5 +1,7 @@
 Proyecto Final de Analisis de Sistemas
 
+GRUPO: A-B
+
 INTEGRANTES:
 -BELTRAN NUÑOVERO ANDERSON JESUS
 -LUCANO OCAS DANI FRANK 
