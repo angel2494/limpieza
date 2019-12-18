@@ -1,0 +1,235 @@
+a {
+  color: #00e1dd;
+}
+a:hover {
+  color: #0e9cd1;
+}
+.sp-megamenu-parent >li.active>a,
+.sp-megamenu-parent >li:hover>a {
+  color: #00e1dd;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item >a:hover {
+  background: #00e1dd;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active>a {
+  color: #00e1dd;
+}
+#offcanvas-toggler >i {
+  color: #FFF;
+}
+#offcanvas-toggler >i:hover {
+  color: #00e1dd;
+}
+.projects-filter a.selected, .projects-filter a.selected:hover,
+.btn-primary,
+.sppb-btn-primary {
+  background-color: #00e1dd;
+}
+.btn-primary:hover,
+.sppb-btn-primary:hover {
+  border-color: #00e1dd;
+  background-color: #0e9cd1;
+}
+ul.social-icons >li a:hover {
+  color: #00e1dd;
+}
+.sp-page-title {
+  background: #00e1dd;
+}
+.layout-boxed .body-innerwrapper {
+  background: #ffffff;
+}
+.sp-module ul >li >a {
+  color: #000000;
+}
+.sp-module ul >li >a:hover {
+  color: #00e1dd;
+}
+.sp-module .latestnews >div >a {
+  color: #000000;
+}
+.sp-module .latestnews >div >a:hover {
+  color: #00e1dd;
+}
+.sp-module .tagscloud .tag-name:hover {
+  background: #00e1dd;
+}
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li > a:hover {
+  background: #00e1dd;
+}
+.search .btn-toolbar button {
+  background: #00e1dd;
+}
+.post-format {
+  background: #00e1dd;
+}
+.voting-symbol span.star.active:before {
+  color: #00e1dd;
+}
+.sp-rating span.star:hover:before,
+.sp-rating span.star:hover ~ span.star:before {
+  color: #0e9cd1;
+}
+.entry-link,
+.entry-quote {
+  background: #00e1dd;
+}
+blockquote {
+  border-color: #00e1dd;
+}
+.carousel-left:hover,
+.carousel-right:hover {
+  background: #00e1dd;
+}
+#sp-footer {
+  background: #00e1dd;
+}
+.sp-comingsoon body {
+  background-color: #00e1dd;
+}
+.pagination>li>a,
+.pagination>li>span {
+  color: #000000;
+}
+.pagination>li>a:hover,
+.pagination>li>a:focus,
+.pagination>li>span:hover,
+.pagination>li>span:focus {
+  color: #000000;
+}
+.pagination>.active>a,
+.pagination>.active>span {
+  border-color: #00e1dd;
+  background-color: #00e1dd;
+}
+.pagination>.active>a:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:hover,
+.pagination>.active>span:focus {
+  border-color: #00e1dd;
+  background-color: #00e1dd;
+}
+#et-text1,
+.et-title h6,
+.et-portfolio-button:hover,
+.et-action-button:hover,
+.et-table-item:hover button {
+  background: #00e1dd;
+}
+.tp-caption.excerpt_2, .excerpt_2,
+.et-feature-item h4,
+.et-table-item h3,
+.et-table-item .table-price .price,
+.et-table-item button:hover a,
+.et-testimonial p.qx-designation,
+.et-testimonial button {
+  color: #00e1dd; 
+}
+.et-feature-item:hover i,
+.et-portfolio-button:hover,
+.et-action-button:hover,
+.et-table-item:hover,
+.et-slider .tp-caption a:after,
+.et-about-button .qx-btn-0,
+.et-about-button .qx-btn-1:hover,
+.et-slider .tp-caption:hover a,
+.et-slider .et-button-slider,
+.et-slider .tp-button-slider
+.et-table-item button,
+.et-qx-btn-membership:after,
+.btn-primary:hover,
+.et-subscribe-content table .button:hover {
+  border-color: #00e1dd!important;
+}
+/* Important */
+.tp-caption.excerpt_second, .excerpt_second b,
+.tp-caption.excerpt_1a, .excerpt_1a strong,
+#et-intro-sub h2,
+#et-intro-sub i,
+.et-services-item:hover i,
+.et-title-general h3,
+.et-intro-right h4,
+.et-about-item h4,
+.et-title h4,
+.et-title h3 b,
+.et-we-do-item h3,
+.et-we-do-item i,
+.et-feature-item:hover i,
+.et-feature-item:hover h3.qx-blurb-title,
+.et-team-item:hover p,
+.et-intro-right h5,
+.et-service-item:hover h6,
+.et-services-item:hover h4,
+.et-action-button:hover,
+.et-blog .moduleItemReadMore:hover,
+.et-blog .moduleItemReadMore:after,
+.et-enroll-item i,
+.tp-caption .large_bold_white b, 
+.large_bold_white b,
+.et-contact-form-item i,
+.et-contact-item i,
+.et-package-content h2,
+.et-pricing-sub .qx-element-pricing-table .cost,
+.et-pricing-sub .qx-element-pricing-table .cost .curency, 
+.et-blog .moduleItemReadMore:hover,
+#et-service .et-service-item i,
+.et-about-item .qx-btn-default {
+  color: #00e1dd!important; 
+}
+.et-contact #sp-quickcontact-form .button:hover,
+#et-service-sub:hover,
+.et-courses-sub,
+div.itemCommentsForm form input#submitCommentButton,
+#et-pricing .et-pricing-sub:nth-child(2) .table-heading:before,
+.et-blog .moduleItemReadMore,
+.et-qx-btn-membership:after,
+.et-slider .tp-button-slider:after,
+.et-about-button:hover .qx-btn-1:after,
+.et-subscribe-content table .button:hover {
+  background: #00e1dd!important;  
+}
+.et-contact-form button:hover,
+.qx-progress-bar,
+.projects-filter a.selected,
+.projects-filter a:hover,
+.et-contact-form button,
+#et-something-button,
+.et-underline,
+.et-about-button .qx-btn-0,
+.et-about-button .qx-btn-1:after, 
+.et-slider .qx-btn-slider:after,
+.et-button-general:hover,
+#et-we-do .et-underline:after,
+#et-we-do .et-underline:before,
+.et-feature-item .line2:before,
+.et-feature-item .line1:before,
+.et-feature-item .line1:after,
+.et-feature-item .line2:after,
+.et-slider .et-button-slider,
+.et-slider .tp-button-slider:after,
+.et-button-general:hover,
+.et-qx-btn-membership:after,
+.btn-primary:hover,
+.et-pricing-sub .qx-btn,
+.et-sub-build-item:hover {  
+  background-color:#00e1dd!important;
+}
+.et-contact #sp-quickcontact-form .button:hover,
+.btn-primary,
+.et-about-item .qx-btn-default {
+  border:1px solid #00e1dd!important; 
+}
+
+.et-about-item .qx-element-image:before {
+  border:7px solid #00e1dd;
+}
+.et-blog .moduleItemReadMore:after,
+div.k2ItemsBlock ul li a.moduleItemReadMore:after {
+  color: #00e1dd!important;
+  z-index: 999;
+  border: 1px solid #00e1dd!important;
+}
+.projects-wrapper .project-img .project-img-extra {
+    background-image: -webkit-linear-gradient(top , rgba(255, 174, 0, 0.51) 0%, rgba(255, 174, 0, 0.51) 100%)!important;
+}
