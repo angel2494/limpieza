@@ -16,3 +16,6 @@ Se describirá diversos aspectos como el stakeholder, los usuarios, como el sist
 El sistema esta hecho en Joomla y Mysql 5.7
 Esta desplegado en una instancia virtual de Google Cloud Plataform
 Y se usa un sudominio
+
+URL: http://prueba.unac.edu.pe/
+
